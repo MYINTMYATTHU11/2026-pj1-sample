@@ -1,1 +1,2 @@
-"I want to introduce"
+print("Hello, GitHub!")
+print("My student ID is k026c1016")
